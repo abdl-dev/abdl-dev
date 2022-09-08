@@ -1,1 +1,1 @@
-me@abdul-malek.dev
+me@almk.dev
